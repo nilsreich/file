@@ -2,4 +2,4 @@ const Test = () => {
   return <div>LALAL</div>;
 };
 
-export default Test
+export default Test;
